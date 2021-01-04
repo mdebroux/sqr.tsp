@@ -1,5 +1,7 @@
 package tsp.lee.jacobson;
-
+/**
+ * Classe représentant une city
+ */
 public class City {
     int x;
     int y;

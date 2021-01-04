@@ -2,7 +2,9 @@ package tsp.lee.jacobson;
 
 import java.util.ArrayList;
 import java.util.Collections;
-
+/**
+ * Classe représentant un tour de l'algorithme
+ */
 public class Tour{
 
     // Holds our tour of cities
