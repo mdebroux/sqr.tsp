@@ -29,31 +29,31 @@ Hereafter, for each classes give function to be tested. Remember that all functi
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| distanceToCity |  |  | 
-| getX |  |  | 
-| getY |  |  | 
-| toString |  |  | 
+| distanceToCity |T|peut être testé| 
+| getX |D|getter| 
+| getY |D|getter| 
+| toString |T|peut être testé| 
 
 ### Class Tour
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| containsCity  |  |  |
-| getCity  |  |  |
-| getDistance  |  |  |
-| getFitness  |  |  |
-| setCity  |  |  |
-| tourSize  |  |  |
-| toString  |  |  |
+| containsCity  |T|peut être testé|
+| getCity  |D|getter|
+| getDistance  |D|getter|
+| getFitness  |D|getter|
+| setCity  |D|getter|
+| tourSize  |T|peut être testé|
+| toString  |T|peut être testé|
 
 ### Class Population
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| getFittest  |  |  |
-| getTour  |  |  |
-| populationSize  |  |  |
-| saveTour  |  |  |
+| getFittest  |D|getter|
+| getTour  |D|getter|
+| populationSize  |T|peut être testé|
+| saveTour  |T|peut être testé|
 
 ## Functions to test now
 
