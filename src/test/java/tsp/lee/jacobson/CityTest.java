@@ -35,11 +35,6 @@ public class CityTest {
 	}
 
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
-
 	public void distanceTo_AFromC_8() {
 		double expected = 8;
 		double actual = C.distanceTo(A);

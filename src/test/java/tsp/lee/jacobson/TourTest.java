@@ -53,10 +53,6 @@ public class TourTest {
 		int actual = tour.getDistance();
 		assertEquals(expected, actual);
 	}
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
 
 
 }
